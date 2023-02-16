@@ -1,0 +1,173 @@
+
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+August 2010When I went to work for Yahoo after they bought our startup in 1998,
+it felt like the center of the world.  It was supposed to be the
+next big thing.  It was supposed to be what Google turned out to
+be.What went wrong?  The problems that hosed Yahoo go back a long time,
+practically to the beginning of the company.  They were already
+very visible when I got there in 1998.  Yahoo had two problems
+Google didn't: easy money, and ambivalence about being a technology
+company.MoneyThe first time I met Jerry Yang, we thought we were meeting for
+different reasons.  He thought we were meeting so he could check
+us out in person before buying us. I thought we were meeting so we
+could show him our new technology, Revenue Loop.   It was a way of
+sorting shopping search results.  Merchants bid a percentage of
+sales for traffic, but the results were sorted not by the bid but
+by the bid times the average amount a user would buy.  It was
+like the algorithm Google uses now to sort ads, but this was in the
+spring of 1998, before Google was founded.Revenue Loop was the optimal sort for shopping search, in the sense
+that it sorted in order of how much money Yahoo would make from
+each link.  But it wasn't just optimal in that sense.  Ranking
+search results by user behavior also makes search better.  Users
+train the search: you can start out finding matches based on mere
+textual similarity, and as users buy more stuff the search results
+get better and better.Jerry didn't seem to care.  I was confused.  I was showing him
+technology that extracted the maximum value from search traffic,
+and he didn't care?  I couldn't tell whether I was explaining it
+badly, or he was just very poker faced.I didn't realize the answer till later, after I went to work at
+Yahoo.  It was neither of my guesses.  The reason Yahoo didn't care
+about a technique that extracted the full value of traffic was that
+advertisers were already overpaying for it.  If Yahoo merely extracted
+the actual value, they'd have made less.Hard as it is to believe now, the big money then was in banner ads.
+Advertisers were willing to pay ridiculous amounts for banner ads.
+So Yahoo's sales force had evolved to exploit this source of revenue.
+Led by a large and terrifyingly formidable man called Anil Singh,
+Yahoo's sales guys would fly out to Procter & Gamble and come back
+with million dollar orders for banner ad impressions.The prices seemed cheap compared to print, which was what advertisers,
+for lack of any other reference, compared them to.  But they were
+expensive compared to what they were worth.  So these big, dumb
+companies were a dangerous source of revenue to depend on.  But
+there was another source even more dangerous: other Internet startups.By 1998, Yahoo was the beneficiary of a de facto Ponzi scheme.
+Investors were excited about the Internet.  One reason they were
+excited was Yahoo's revenue growth.  So they invested in new Internet
+startups.  The startups then used the money to buy ads on Yahoo to
+get traffic.  Which caused yet more revenue growth for Yahoo, and
+further convinced investors the Internet was worth investing in.
+When I realized this one day, sitting in my cubicle, I jumped up
+like Archimedes in his bathtub, except instead of "Eureka!" I was
+shouting "Sell!"Both the Internet startups and the Procter & Gambles were doing
+brand advertising.  They didn't care about targeting.  They just
+wanted lots of people to see their ads.  So traffic became the thing
+to get at Yahoo.  It didn't matter what type.
+[1]It wasn't just Yahoo.  All the search engines were doing it.  This
+was why they were trying to get people to start calling them "portals"
+instead of "search engines." Despite the actual meaning of the word
+portal, what they meant by it was a site where users would find
+what they wanted on the site itself, instead of just passing through
+on their way to other destinations, as they did at a search engine.I remember telling David Filo in late 1998 or early 1999 that Yahoo
+should buy Google, because I and most of the other programmers in
+the company were using it instead of Yahoo for search.  He told me
+that it wasn't worth worrying about.  Search was only 6% of our
+traffic, and we were growing at 10% a month.   It wasn't worth doing
+better.I didn't say "But search traffic is worth more than other traffic!"
+I said "Oh, ok."  Because I didn't realize either how much search
+traffic was worth.  I'm not sure even Larry and Sergey did then.
+If they had, Google presumably wouldn't have expended any effort
+on enterprise search.If circumstances had been different, the people running Yahoo might
+have realized sooner how important search was.  But they had the
+most opaque obstacle in the world between them and the truth: money.
+As long as customers were writing big checks for banner ads, it was
+hard to take search seriously.  Google didn't have that to distract
+them.HackersBut Yahoo also had another problem that made it hard to change
+directions.  They'd been thrown off balance from the start by their
+ambivalence about being a technology company.One of the weirdest things about Yahoo when I went to work there
+was the way they insisted on calling themselves a "media company."
+If you walked around their offices, it seemed like a software
+company.  The cubicles were full of programmers writing code, product
+managers thinking about feature lists and ship dates, support people
+(yes, there were actually support people) telling users to restart
+their browsers, and so on, just like a software company.  So why
+did they call themselves a media company?One reason was the way they made money: by selling ads.  In 1995
+it was hard to imagine a technology company making money that way.
+Technology companies made money by selling their software to users.
+Media companies sold ads.  So they must be a media company.Another big factor was the fear of Microsoft.   If anyone at Yahoo
+considered the idea that they should be a technology company, the
+next thought would have been that Microsoft would crush them.It's hard for anyone much younger than me to understand the fear
+Microsoft still inspired in 1995.  Imagine a company with several
+times the power Google has now, but way meaner.  It was perfectly
+reasonable to be afraid of them.  Yahoo watched them crush the first
+hot Internet company, Netscape.  It was reasonable to worry that
+if they tried to be the next Netscape, they'd suffer the same fate.
+How were they to know that Netscape would turn out to be Microsoft's
+last victim?It would have been a clever move to pretend to be a media company
+to throw Microsoft off their scent.  But unfortunately Yahoo actually
+tried to be one, sort of.  Project managers at Yahoo were called
+"producers," for example, and the different parts of the company
+were called "properties." But what Yahoo really needed to be was a
+technology company, and by trying to be something else, they ended
+up being something that was neither here nor there.  That's why
+Yahoo as a company has never had a sharply defined identity.The worst consequence of trying to be a media company was that they
+didn't take programming seriously enough.  Microsoft (back in the
+day), Google, and Facebook have all had hacker-centric cultures.
+But Yahoo treated programming as a commodity.  At Yahoo, user-facing software
+was controlled by product managers and designers.  The job of
+programmers was just to take the work of the product managers and
+designers the final step, by translating it into code.One obvious result of this practice was that when Yahoo built things,
+they often weren't very good. But that wasn't the worst problem.
+The worst problem was that they hired bad programmers.Microsoft (back in the day), Google, and Facebook have all been
+obsessed with hiring the best programmers.  Yahoo wasn't.  They
+preferred good programmers to bad ones, but they didn't have the
+kind of single-minded, almost obnoxiously elitist focus on hiring
+the smartest people that the big winners have had.  And when you
+consider how much competition there was for programmers when they
+were hiring, during the Bubble, it's not surprising that the quality
+of their programmers was uneven.In technology, once you have bad programmers, you're doomed.  I
+can't think of an instance where a company has sunk into technical
+mediocrity and recovered. Good programmers want to work with other
+good programmers.  So once the quality of programmers at your company
+starts to drop, you enter a death spiral from which there is no
+recovery.
+[2]At Yahoo this death spiral started early.  If there was ever a time when
+Yahoo was a Google-style talent magnet, it was over by the time I
+got there in 1998.The company felt prematurely old.  Most technology companies
+eventually get taken over by suits and middle managers.  At Yahoo
+it felt as if they'd deliberately accelerated this process.  They
+didn't want to be a bunch of hackers.  They wanted to be suits.  A
+media company should be run by suits.The first time I visited Google, they had about 500 people, the
+same number Yahoo had when I went to work there.  But boy did things
+seem different.  It was still very much a hacker-centric culture.
+I remember talking to some programmers in the cafeteria about the
+problem of gaming search results (now known as SEO), and they asked
+"what should we do?"  Programmers at Yahoo wouldn't have asked that.
+Theirs was not to reason why; theirs was to build what product
+managers spec'd.  I remember coming away from Google thinking "Wow,
+it's still a startup."There's not much we can learn from Yahoo's first fatal flaw. It's
+probably too much to hope any company could avoid being damaged by
+depending on a bogus source of revenue.  But startups can learn an
+important lesson from the second one.  In the software business,
+you can't afford not to have a hacker-centric culture.Probably the most impressive commitment I've heard to having a
+hacker-centric culture came from Mark Zuckerberg, when he spoke at
+Startup School in 2007.  He said that in the early days Facebook
+made a point of hiring programmers even for jobs that would not
+ordinarily consist of programming, like HR and marketing.So which companies need to have a hacker-centric culture?  Which
+companies are "in the software business" in this respect?  As Yahoo
+discovered, the area covered by this rule is bigger than most people
+realize.  The answer is: any company that needs to have good software.Why would great programmers want to work for a company that didn't
+have a hacker-centric culture, as long as there were others that
+did?  I can imagine two reasons: if they were paid a huge amount,
+or if the domain was interesting and none of the companies in it
+were hacker-centric.  Otherwise you can't attract good programmers
+to work in a suit-centric culture.  And without good programmers
+you won't get good software, no matter how many people you put on
+a task, or how many procedures you establish to ensure "quality."Hacker culture 
+often seems kind of irresponsible.  That's why people
+proposing to destroy it use phrases like "adult supervision." That
+was the phrase they used at Yahoo.  But there are worse things than
+seeming irresponsible.  Losing, for example.
+Notes[1]
+The closest we got to targeting when I was there was when we
+created pets.yahoo.com in order to provoke a bidding war between 3
+pet supply startups for the spot as top sponsor.[2]
+In theory you could beat the death spiral by buying good
+programmers instead of hiring them.  You can get programmers
+who would never have come to you as employees by buying their 
+startups. But so far the only companies smart enough
+to do this are companies smart enough not to need to.Thanks to Trevor Blackwell, Jessica Livingston, and
+Geoff Ralston for
+reading drafts of this.

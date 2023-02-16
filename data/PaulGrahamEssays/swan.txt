@@ -1,0 +1,189 @@
+
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+September 2012I've done several types of work over the years but I don't know
+another as counterintuitive as startup investing.The two most important things to understand about startup investing,
+as a business, are (1) that effectively all the returns are
+concentrated in a few big winners, and (2) that the best ideas look
+initially like bad ideas.The first rule I knew intellectually, but didn't really grasp till
+it happened to us.  The total value of the companies we've funded
+is around 10 billion, give or take a few.  But just two companies,
+Dropbox and Airbnb, account for about three quarters of it.In startups, the big winners are big to a degree that violates our
+expectations about variation.  I don't know whether these expectations
+are innate or learned, but whatever the cause, we are just not
+prepared for the 1000x variation in outcomes that one finds in
+startup investing.That yields all sorts of strange consequences.  For example, in
+purely financial terms, there is probably at most one company in
+each YC batch that will have a significant effect on our returns,
+and the rest are just a cost of doing business.  
+[1]
+I haven't
+really assimilated that fact, partly because it's so counterintuitive,
+and partly because we're not doing this just for financial reasons;
+YC would be a pretty lonely place if we only had one company per
+batch.  And yet it's true.To succeed in a domain that violates your intuitions, you need to
+be able to turn them off the way a pilot does when flying through
+clouds. 
+[2]
+  You need to do what you know intellectually to be
+right, even though it feels wrong.It's a constant battle for us.  It's hard to make ourselves take
+enough risks. When you interview a startup and think "they seem
+likely to succeed," it's hard not to fund them.  And yet, financially
+at least, there is only one kind of success: they're either going
+to be one of the really big winners or not, and if not it doesn't
+matter whether you fund them, because even if they succeed the
+effect on your returns will be insignificant.  In the same day of
+interviews you might meet some smart 19 year olds who aren't even
+sure what they want to work on. Their chances of succeeding seem
+small.  But again, it's not their chances of succeeding that matter
+but their chances of succeeding really big.  The probability that
+any group will succeed really big is microscopically small, but the
+probability that those 19 year olds will might be higher than that
+of the other, safer group.The probability that a startup will make it big is not simply a
+constant fraction of the probability that they will succeed at all.
+If it were, you could fund everyone who seemed likely to succeed
+at all, and you'd get that fraction of big hits.  Unfortunately
+picking winners is harder than that.  You have to ignore the elephant
+in front of you, the likelihood they'll succeed, and focus instead
+on the separate and almost invisibly intangible question of whether
+they'll succeed really big.HarderThat's made harder by the fact that the best startup ideas seem at
+first like bad ideas.  I've written about this before: if a good
+idea were obviously good, someone else would already have done it.
+So the most successful founders tend to work on ideas that few
+beside them realize are good.  Which is not that far from a description
+of insanity, till you reach the point where you see results.The first time Peter Thiel spoke at YC he drew a Venn diagram that
+illustrates the situation perfectly.  He drew two intersecting
+circles, one labelled "seems like a bad idea" and the other "is a
+good idea."  The intersection is the sweet spot for startups.This concept is a simple one and yet seeing it as a Venn diagram
+is illuminating.  It reminds you that there is an intersection—that
+there are good ideas that seem bad.  It also reminds you that the
+vast majority of ideas that seem bad are bad.The fact that the best ideas seem like bad ideas makes it even
+harder to recognize the big winners.  It means the probability of
+a startup making it really big is not merely not a constant fraction
+of the probability that it will succeed, but that the startups with
+a high probability of the former will seem to have a disproportionately
+low probability of the latter.History tends to get rewritten by big successes, so that in retrospect
+it seems obvious they were going to make it big.  For that reason
+one of my most valuable memories is how lame Facebook sounded to
+me when I first heard about it.  A site for college students to
+waste time?  It seemed the perfect bad idea: a site (1) for a niche
+market (2) with no money (3) to do something that didn't matter.One could have described Microsoft and Apple in exactly the same
+terms.
+[3]Harder StillWait, it gets worse.  You not only have to solve this hard problem,
+but you have to do it with no indication of whether you're succeeding.
+When you pick a big winner, you won't know it for two years.Meanwhile, the one thing you can measure is dangerously
+misleading.  The one thing we can track precisely is how well the
+startups in each batch do at fundraising after Demo Day.  But we
+know that's the wrong metric.  There's no correlation between the
+percentage of startups that raise money and the metric that does
+matter financially, whether that batch of startups contains a big
+winner or not.Except an inverse one.  That's the scary thing: fundraising is not
+merely a useless metric, but positively misleading.  We're in a
+business where we need to pick unpromising-looking outliers, and
+the huge scale of the successes means we can afford to spread our
+net very widely.  The big winners could generate 10,000x returns.
+That means for each big winner we could pick a thousand companies
+that returned nothing and still end up 10x ahead.If we ever got to the point where 100% of the startups we funded
+were able to raise money after Demo Day, it would almost certainly
+mean we were being too conservative.
+[4]It takes a conscious effort not to do that too.  After 15 cycles
+of preparing startups for investors and then watching how they do,
+I can now look at a group we're interviewing through Demo Day
+investors' eyes.  But those are the wrong eyes to look through!We can afford to take at least 10x as much risk as Demo Day investors.
+And since risk is usually proportionate to reward, if you can afford
+to take more risk you should.  What would it mean to take 10x more
+risk than Demo Day investors?  We'd have to be willing to fund 10x
+more startups than they would.  Which means that even if we're
+generous to ourselves and assume that YC can on average triple a
+startup's expected value, we'd be taking the right amount of risk
+if only 30% of the startups were able to raise significant funding
+after Demo Day.I don't know what fraction of them currently raise more after Demo
+Day.  I deliberately avoid calculating that number, because if you
+start measuring something you start optimizing it, and I know it's
+the wrong thing to optimize.
+[5]
+But the percentage is certainly
+way over 30%.  And frankly the thought of a 30% success rate at
+fundraising makes my stomach clench.  A Demo Day where only 30% of
+the startups were fundable would be a shambles.  Everyone would
+agree that YC had jumped the shark. We ourselves would feel that
+YC had jumped the shark.  And yet we'd all be wrong.For better or worse that's never going to be more than a thought
+experiment.  We could never stand it.  How about that for
+counterintuitive?  I can lay out what I know to be the right thing
+to do, and still not do it.  I can make up all sorts of plausible
+justifications.  It would hurt YC's brand (at least among the
+innumerate) if we invested in huge numbers of risky startups that
+flamed out.  It might dilute the value of the alumni network.
+Perhaps most convincingly, it would be demoralizing for us to be
+up to our chins in failure all the time.  But I know the real reason
+we're so conservative is that we just haven't assimilated the fact
+of 1000x variation in returns.We'll probably never be able to bring ourselves to take risks
+proportionate to the returns in this business.  The best we can
+hope for is that when we interview a group and find ourselves
+thinking "they seem like good founders, but what are investors going
+to think of this crazy idea?" we'll continue to be able to say "who
+cares what investors think?"  That's what we thought about Airbnb,
+and if we want to fund more Airbnbs we have to stay good at thinking
+it.Notes[1]
+I'm not saying that the big winners are all that matters, just
+that they're all that matters financially for investors.  Since
+we're not doing YC mainly for financial reasons, the big winners
+aren't all that matters to us.  We're delighted to have funded
+Reddit, for example. Even though we made comparatively little from
+it, Reddit has had a big effect on the world, and it introduced us
+to Steve Huffman and Alexis Ohanian, both of whom have become good
+friends.Nor do we push founders to try to become one of the big winners if
+they don't want to. We didn't "swing for the fences" in our own
+startup (Viaweb, which was acquired for $50 million), and it would
+feel pretty bogus to press founders to do something we didn't do.
+Our rule is that it's up to the founders.  Some want to take over
+the world, and some just want that first few million.  But we invest
+in so many companies that we don't have to sweat any one outcome.
+In fact, we don't have to sweat whether startups have exits at all.
+The biggest exits are the only ones that matter financially, and
+those are guaranteed in the sense that if a company becomes big
+enough, a market for its shares will inevitably arise.  Since the
+remaining outcomes don't have a significant effect on returns, it's
+cool with us if the founders want to sell early for a small amount,
+or grow slowly and never sell (i.e. become a so-called lifestyle
+business), or even shut the company down.  We're sometimes disappointed
+when a startup we had high hopes for doesn't do well, but this
+disappointment is mostly the ordinary variety that anyone feels
+when that happens.[2]
+Without visual cues (e.g. the horizon) you can't distinguish
+between gravity and acceleration.  Which means if you're flying
+through clouds you can't tell what the attitude of
+the aircraft is.  You could feel like you're flying straight and
+level while in fact you're descending in a spiral.  The solution
+is to ignore what your body is telling you and listen only to your
+instruments.  But it turns out to be very hard to ignore what your
+body is telling you.  Every pilot knows about this 
+problem and yet
+it is still a leading cause of accidents.[3]
+Not all big hits follow this pattern though. The reason Google
+seemed a bad idea was that there were already lots of search engines
+and there didn't seem to be room for another.[4]
+A startup's success at fundraising is a function of two things:
+what they're selling and how good they are at selling it.  And while
+we can teach startups a lot about how to appeal to investors, even
+the most convincing pitch can't sell an idea that investors don't
+like.  I was genuinely worried that Airbnb, for example, would not
+be able to raise money after Demo Day.  I couldn't convince Fred Wilson to fund them.  They might not
+have raised money at all but for the coincidence that Greg McAdoo,
+our contact at Sequoia, was one of a handful of VCs who understood
+the vacation rental business, having spent much of the previous two
+years investigating it.[5]
+I calculated it once for the last batch before a consortium of
+investors started offering investment automatically to every startup
+we funded, summer 2010.  At the time it was 94% (33 of 35 companies
+that tried to raise money succeeded, and one didn't try because
+they were already profitable).  Presumably it's lower now because
+of that investment; in the old days it was raise after Demo Day or
+die.Thanks to Sam Altman, Paul Buchheit, Patrick Collison, Jessica
+Livingston, Geoff Ralston, and Harj Taggar for reading drafts of
+this.

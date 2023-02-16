@@ -1,0 +1,74 @@
+
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+January 2012A year ago I noticed a pattern in the least successful startups
+we'd funded: they all seemed hard to talk to.  It felt as if there
+was some kind of wall between us.  I could never quite tell if they
+understood what I was saying.This caught my attention because earlier we'd noticed a pattern
+among the most successful startups, and it seemed to hinge on a
+different quality.  We found the startups that did best were the
+ones with the sort of founders about whom we'd say "they can take
+care of themselves."  The startups that do best are fire-and-forget
+in the sense that all you have to do is give them a lead, and they'll
+close it, whatever type of lead it is.  When they're raising money,
+for example, you can do the initial intros knowing that if you
+wanted to you could stop thinking about it at that point.  You won't
+have to babysit the round to make sure it happens.  That type of
+founder is going to come back with the money; the only question is
+how much on what terms.It seemed odd that the outliers at the two ends of the spectrum
+could be detected by what appeared to be unrelated tests.  You'd
+expect that if the founders at one end were distinguished by the
+presence of quality x, at the other end they'd be distinguished by
+lack of x.  Was there some kind of inverse relation between
+resourcefulness and being hard to talk to?It turns out there is, and the key to the mystery is the old adage
+"a word to the wise is sufficient."   Because this phrase is not
+only overused, but overused in an indirect way (by prepending the
+subject to some advice), most people who've heard it don't know
+what it means.  What it means is that if someone is wise, all you
+have to do is say one word to them, and they'll understand immediately.
+You don't have to explain in detail; they'll chase down all the
+implications.In much the same way that all you have to do is give the right sort
+of founder a one line intro to a VC, and he'll chase down the money.
+That's the connection.  Understanding all the implications — even the
+inconvenient implications — of what someone tells you is a subset of
+resourcefulness.  It's conversational resourcefulness.Like real world resourcefulness, conversational resourcefulness
+often means doing things you don't want to.  Chasing down all the
+implications of what's said to you can sometimes lead to uncomfortable
+conclusions.  The best word to describe the failure to do so is
+probably "denial," though that seems a bit too narrow.  A better
+way to describe the situation would be to say that the unsuccessful
+founders had the sort of conservatism that comes from weakness.
+They traversed idea space as gingerly as a very old person
+traverses the physical world.
+[1]The unsuccessful founders weren't stupid.  Intellectually they
+were as capable as
+the successful founders of following all the implications of what
+one said to them.  They just weren't eager to.So being hard to talk to was not what was killing the
+unsuccessful startups.  It
+was a sign of an underlying lack of resourcefulness.  That's what
+was killing them.  As well as
+failing to chase down the implications of what was said to them,
+the unsuccessful founders would also fail to chase down funding,
+and users, and sources of new ideas.  But the most immediate evidence
+I had that something was amiss was that I couldn't talk to them.Notes[1]
+A YC partner wrote:My feeling with the bad groups is that coming into office hours,
+they've already decided what they're going to do and everything I
+say is being put through an internal process in their heads, which
+either desperately tries to munge what I've said into something
+that conforms with their decision or just outright dismisses it and
+creates a rationalization for doing so. They may not even be conscious
+of this process but that's what I think is happening when you say
+something to bad groups and they have that glazed over look. I don't
+think it's confusion or lack of understanding per se, it's this
+internal process at work.With the good groups, you can tell that everything you say is being
+looked at with fresh eyes and even if it's dismissed, it's because
+of some logical reason e.g. "we already tried that" or "from speaking
+to our users that isn't what they'd like," etc. Those groups never
+have that glazed over look.Thanks to Sam Altman, Patrick Collison, Aaron Iba, Jessica Livingston,
+Robert Morris, Harj Taggar, and Garry Tan for reading drafts of
+this.

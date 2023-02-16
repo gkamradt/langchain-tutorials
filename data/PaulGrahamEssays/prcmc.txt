@@ -1,0 +1,101 @@
+July 2008At this year's startup school, David Heinemeier Hansson gave a
+ talk
+in which he suggested that startup founders
+should do things the old fashioned way.  Instead of hoping to get
+rich by building a valuable company and then selling stock in a
+"liquidity event," founders should start companies that make money
+and live off the revenues.Sounds like a good plan.  Let's think about the optimal way to do
+this.One disadvantage of living off the revenues of your company is that
+you have to keep running it.  And as anyone who runs their own
+business can tell you, that requires your complete attention.  You
+can't just start a business and check out once things are going
+well, or they stop going well surprisingly fast.The main economic motives of startup founders seem to be freedom
+and security.  They want enough money that (a) they don't have to
+worry about running out of money and (b) they can spend their time
+how they want.  Running your own business offers neither.  You
+certainly don't have freedom: no boss is so demanding.  Nor do you
+have security, because if you stop paying attention to the company,
+its revenues go away, and with them your income.The best case, for most people, would be if you could hire someone
+to manage the company for you once you'd grown it to a certain size.
+Suppose you could find a really good manager.  Then you would have
+both freedom and security.  You could pay as little attention to
+the business as you wanted, knowing that your manager would keep
+things running smoothly.  And that being so, revenues would continue
+to flow in, so you'd have security as well.There will of course be some founders who wouldn't like that idea:
+the ones who like running their company so much that there's nothing
+else they'd rather do.  But this group must be small.  The way you
+succeed in most businesses is to be fanatically attentive
+to customers' needs.  What are the odds that your own desires would
+coincide exactly with the demands of this powerful, external force?Sure, running your own company can be fairly interesting.  Viaweb
+was more interesting than any job I'd had before.  And since I made
+much more money from it, it offered the highest ratio of income to
+boringness of anything I'd done, by orders of magnitude.  But was
+it the most interesting work I could imagine doing?  No.Whether the number of founders in the same position is asymptotic
+or merely large, there are certainly a lot of them.  For them the
+right approach would be to hand the company over to a professional
+manager eventually, if they could find one who was good enough._____So far so good.  But what if your manager was hit by a bus?  What
+you really want is a management company to run your company for
+you.  Then you don't depend on any one person.If you own rental property, there are companies you can hire to
+manage it for you.  Some will do everything, from finding tenants
+to fixing leaks.  Of course, running companies is a lot more
+complicated than managing rental property, but let's suppose there
+were management companies that could do it for you. They'd charge
+a lot, but wouldn't it be worth it?  I'd sacrifice a large percentage
+of the income for the extra peace of mind.I realize what I'm describing already sounds too good to be true, but I
+can think of a way to make it even more attractive.  If
+company management companies existed, there would be an additional
+service they could offer clients: they could let them insure their
+returns by pooling their risk.  After all, even a perfect manager can't save a company
+when, as sometimes happens, its whole market dies, just as property
+managers can't save you from the building burning down.  But a
+company that managed a large enough number of companies could say
+to all its clients: we'll combine the revenues from all your
+companies, and pay you your proportionate share.If such management companies existed, they'd offer the maximum of
+freedom and security.  Someone would run your company for you, and
+you'd be protected even if it happened to die.Let's think about how such a management company might be organized.
+The simplest way would be to have a new kind of stock representing
+the total pool of companies they were managing.  When you signed
+up, you'd trade your company's stock for shares of this pool, in
+proportion to an estimate of your company's value that you'd both
+agreed upon.  Then you'd automatically get your share of the returns
+of the whole pool.The catch is that because this kind of trade would be hard to undo,
+you couldn't switch management companies.  But there's a way they
+could fix that: suppose all the company management companies got
+together and agreed to allow their clients to exchange shares in
+all their pools.  Then you could, in effect, simultaneously choose
+all the management companies to run yours for you, in whatever
+proportion you wanted, and change your mind later as often as you
+wanted.If such pooled-risk company management companies existed, signing
+up with one would seem the ideal plan for most people following the
+route David advocated.Good news: they do exist.  What I've just
+described is an acquisition by a public company._____Unfortunately, though public acquirers are structurally identical
+to pooled-risk company management companies, they don't think of
+themselves that way.  With a property management company, you can
+just walk in whenever you want and say "manage my rental property
+for me" and they'll do it.  Whereas acquirers are, as of this
+writing, extremely fickle.  Sometimes they're in a buying mood and
+they'll overpay enormously; other times they're not interested.
+They're like property management companies run by madmen.  Or more
+precisely, by Benjamin Graham's Mr. Market.So while on average public acquirers behave like pooled-risk company
+managers, you need a window of several years to get average case
+performance.  If you wait long enough (five years, say) you're
+likely to hit an up cycle where some acquirer is hot to buy you.
+But you can't choose when it happens.You can't assume investors will carry you for as long as you might
+have to wait. Your company has to make money.  Opinions are divided
+about how early to focus on that.  
+Joe Kraus says you should try
+charging customers right away.  And yet some of the most successful
+startups, including Google, ignored revenue at first and concentrated
+exclusively on development.  The answer probably depends on the
+type of company you're starting.  I can imagine some where trying
+to make sales would be a good heuristic for product design, and
+others where it would just be a distraction.  The test is probably
+whether it helps you to understand your users.You can choose whichever revenue strategy you think is best for the
+type of company you're starting, so long as you're profitable.
+Being profitable ensures you'll get at least the average of the
+acquisition market—in which public companies do behave as pooled-risk
+company management companies.David isn't mistaken in saying you should start a company to live
+off its revenues.  The mistake is thinking this is somehow opposed
+to starting a company and selling it.  In fact, for most people the
+latter is merely the optimal case of the former.Thanks to Trevor Blackwell, Jessica Livingston, Michael
+Mandel, Robert Morris, and Fred Wilson for reading drafts of this.

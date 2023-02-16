@@ -1,0 +1,158 @@
+March 2008, rev May 2013(This essay grew out of something I wrote for myself to figure
+out what we do.  Even though Y Combinator is now 3 years old, we're still
+trying to understand its implications.)
+I was annoyed recently to read a description of Y Combinator that
+said "Y Combinator does seed funding for startups."  What was
+especially annoying about it was that I wrote it.  This doesn't
+really convey what we do.  And the reason it's inaccurate is that,
+paradoxically, funding very early stage startups is not mainly about
+funding.Saying YC does seed funding for startups is a description in terms
+of earlier models.  It's like calling a car a horseless carriage.When you scale animals you can't just keep everything in proportion.
+For example, volume grows as the cube of linear dimension, but
+surface area only as the square.  So as animals get bigger they
+have trouble radiating heat.  That's why mice and rabbits are furry
+and elephants and hippos aren't.  You can't make a mouse by scaling
+down an elephant.YC represents a new, smaller kind of animal—so much smaller
+that all the rules are different.Before us, most companies in the startup funding business were
+venture capital funds.  VCs generally fund later stage companies
+than we do.  And they supply so much money that, even though the
+other things they do may be very valuable, it's not that inaccurate
+to regard VCs as sources of money.  Good VCs are "smart money," but
+they're still money.All good investors supply a combination of money and help.  But
+these scale differently, just as volume and surface area do.  Late
+stage investors supply huge amounts of money and
+comparatively little help: when a company about to go public gets
+a mezzanine round of $50 million, the deal tends to be almost
+entirely about money.  As you move earlier in the venture
+funding process, the ratio of help to money increases, because
+earlier stage companies have different needs.  Early stage companies
+need less money because they're smaller and cheaper to run, but
+they need more help because life is so precarious for them.  So
+when VCs do a series A round for, say, $2 million, they generally
+expect to offer a significant amount of help along with the money.Y Combinator occupies the earliest end of the spectrum.  We're at
+least one and generally two steps before VC funding.  (Though some
+startups go straight from YC to VC, the most common trajectory is
+to do an angel round first.)  And what happens at Y Combinator is
+as different from what happens in a series A round as a series A
+round is from a mezzanine financing.At our end, money is almost a negligible factor.  The startup usually
+consists of just the founders. Their living expenses are the
+company's main expense, and since most founders are under 30, their
+living expenses are low.  But at this early stage companies need a
+lot of help.  Practically every question is still unanswered.  Some
+companies we've funded have been working on their software for a
+year or more, but others haven't decided what to work on, or even
+who the founders should be.When PR people and journalists recount the histories of startups
+after they've become big, they always underestimate how uncertain
+things were at first.  They're not being deliberately misleading.
+When you look at a company like Google, it's hard to imagine they
+could once have been small and helpless.  Sure, at one point they
+were a just a couple guys in a garage—but even then their
+greatness was assured, and all they had to do was roll forward along
+the railroad tracks of destiny.Far from it.  A lot of startups with just as promising beginnings
+end up failing.  Google has such momentum now that it would be hard
+for anyone to stop them.  But all it would have taken in the beginning
+would have been for two Google employees to focus on the wrong
+things for six months, and the company could have died.We know, because we've been there, just how vulnerable startups are
+in the earliest phases.  Curiously enough, that's why founders tend
+to get so rich from them.  Reward is always proportionate to risk,
+and very early stage startups are insanely risky.What we really do at Y Combinator is get startups launched straight.
+One of many metaphors you could use for YC is a steam catapult on
+an aircraft carrier.  We get startups airborne.  Barely airborne,
+but enough that they can accelerate fast.When you're launching planes they have to be set up properly or
+you're just launching projectiles.  They have to be pointed straight
+down the deck; the wings have to be trimmed properly; the engines
+have to be at full power; the pilot has to be ready.  These are the
+kind of problems we deal with.  After we fund startups we work
+closely with them for three months—so closely in fact that
+we insist they move to where we are.  And what we do in those three
+months is make sure everything is set up for launch.  If there are
+tensions between cofounders we help sort them out.  We get all the
+paperwork set up properly so there are no nasty surprises later.
+If the founders aren't sure what to focus on first, we try to figure
+that out.  If there is some obstacle right in front of them, we
+either try to remove it, or shift the startup sideways.  The goal
+is to get every distraction out of the way so the founders can use
+that time to build (or finish building) something impressive.  And
+then near the end of the three months we push the button on the
+steam catapult in the form of Demo Day, where the current group of
+startups present to pretty much every investor in Silicon Valley.Launching companies isn't identical with launching products.  Though
+we do spend a lot of time on launch strategies for products, there
+are some things that take too long to build for a startup to launch
+them before raising their next round of funding.  Several of the
+most promising startups we've funded haven't launched their products
+yet, but are definitely launched as companies.In the earliest stage, startups not only have more questions to
+answer, but they tend to be different kinds of questions.  In later
+stage startups the questions are about deals, or hiring, or
+organization.  In the earliest phase they tend to be about technology
+and design.  What do you make?  That's the first problem to solve.
+That's why our motto is "Make something people want."  This is
+always a good thing for companies to do, but it's even more important
+early on, because it sets the bounds for every other question.  Who
+you hire, how much money you raise, how you market yourself—they
+all depend on what you're making.Because the early problems are so much about technology and design,
+you probably need to be hackers to do what we do.  While some VCs
+have technical backgrounds, I don't know any who still write code.
+Their expertise is mostly in business—as it should be, because
+that's the kind of expertise you need in the phase between series
+A and (if you're lucky) IPO.We're so different from VCs that we're really a different kind of
+animal.  Can we claim founders are better off as a result of this
+new type of venture firm?  I'm pretty sure the answer is yes, because
+YC is an improved version of what happened to our startup, and our
+case was not atypical.  We started Viaweb with $10,000 in seed money
+from our friend Julian.  He was a lawyer and arranged all our
+paperwork, so we could just code.  We spent three months building
+a version 1, which we then presented to investors to raise more
+money.  Sounds familiar, doesn't it?  But YC improves on that
+significantly.  Julian knew a lot about law and business, but his
+advice ended there; he was not a startup guy.  So we made some basic
+mistakes early on.  And when we presented to investors, we presented
+to only 2, because that was all we knew.  If we'd had our later
+selves to encourage and advise us, and Demo Day to present at, we
+would have been in much better shape.  We probably could have raised
+money at 3 to 5 times the valuation we did.If we take 7% of a company we fund, the founders only have to do
+7.5% better in their next round of funding
+to end up net ahead.  We certainly manage that.So who is our 7% coming out of?  If the founders end up net ahead
+it's not coming out of them.  So is it coming out of later stage
+investors?  Well, they do end up paying more.  But I think they pay
+more because the company is actually more valuable.  And later stage
+investors have no problem with that.  The returns of a VC fund
+depend on the quality of the companies they invest in, not how
+cheaply they can buy stock in them.If what we do is useful, why wasn't anyone doing it before?  There
+are two answers to that.  One is that people were doing it before,
+just haphazardly on a smaller scale.  Before us, seed funding came
+primarily from individual angel investors.  Larry and Sergey, for
+example, got their seed funding from Andy Bechtolsheim, one of the
+founders of Sun.  And because he was a startup guy he probably gave
+them useful advice.  But raising money from angel investors is a
+hit or miss thing.  It's a sideline for most of them, so they only
+do a handful of deals a year and they don't spend a lot of time on
+the startups they invest in.  And they're hard to reach, because
+they don't want random startups pestering them with business plans.
+The Google guys were lucky because they knew someone who knew
+Bechtolsheim.  It generally takes a personal introduction with
+angels.The other reason no one was doing quite what we do is that till
+recently it was a lot more expensive to start a startup.  You'll
+notice we haven't funded any biotech startups.  That's still
+expensive.  But advancing technology has made web startups so cheap
+that you really can get a company airborne for $15,000.  If you
+understand how to operate a steam catapult, at least.So in effect what's happened is that a new ecological niche has
+opened up, and Y Combinator is the new kind of animal that has moved
+into it.  We're not a replacement for venture capital funds.  We
+occupy a new, adjacent niche.  And conditions in our niche are
+really quite different.  It's not just that the problems we face
+are different; the whole structure of the business is different.
+VCs are playing a zero-sum game.  They're all competing for a slice
+of a fixed amount of "deal flow," and that explains a lot of their
+behavior.  Whereas our m.o. is to create new deal flow, by encouraging
+hackers who would have gotten jobs to start their own startups
+instead.  We compete more with employers than VCs.It's not surprising something like this would happen.  Most fields
+become more specialized—more articulated—as they develop,
+and startups are certainly an area in which there has been a lot
+of development over the past couple decades.  The venture business
+in its present form is only about forty years old.  It stands to
+reason it would evolve.And it's natural that the new niche would at first be described,
+even by its inhabitants, in terms of the old one.  But really Y
+Combinator is not in the startup funding business.  Really we're
+more of a small, furry steam catapult.Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris
+for reading drafts of this.
+Comment on this essay.

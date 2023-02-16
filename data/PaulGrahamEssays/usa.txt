@@ -1,0 +1,185 @@
+November 2004(This is a new essay for the Japanese edition of 
+Hackers 
+& Painters.
+It tries to explain why Americans make some things well 
+and others badly.)A few years ago an Italian friend of mine travelled by train from
+Boston to Providence.  She had only been in America for a
+couple weeks and hadn't seen much of the country yet.  She arrived
+looking astonished.  "It's so ugly!"People from other rich countries can scarcely imagine
+the squalor of the man-made bits of America.  In travel books
+they show you mostly natural environments: the Grand Canyon,
+whitewater rafting, horses in a field.  If you see
+pictures with man-made things in them, it will be either a
+view of the New York skyline shot from a discreet distance,
+or a carefully cropped image of a seacoast town in Maine.How can it be, visitors must wonder.  How can the richest country
+in the world look like this?Oddly enough, it may not be a coincidence.  Americans are good
+at some things and bad at others.  We're good at making
+movies and software, and bad at making cars and cities.
+And I think we may be good at what we're good at for the same
+reason we're bad at what we're bad at.  We're impatient.
+In America, if you want to do something, you don't worry that
+it might come out badly, or upset delicate social balances, or
+that people might think you're getting above yourself.  If you
+want to do something, as Nike says, just do it.This works well in some fields and badly in others.  I suspect
+it works in movies and software because they're both messy  
+processes.  "Systematic"
+is the last word I'd use to describe the way 
+good programmers write software.
+Code is not something they assemble painstakingly after
+careful planning, like the pyramids.  It's something they
+plunge into, working fast and constantly changing their minds,
+like a charcoal sketch.In software, paradoxical
+as it sounds, good craftsmanship means working fast.
+If you work slowly and meticulously,
+you merely end up with a very fine implementation of your initial,
+mistaken idea.
+Working slowly and meticulously is
+premature optimization.  Better to get a
+prototype done fast, and see what new ideas
+it gives you.It sounds like making movies works a lot like making software.
+Every movie is a Frankenstein, full of imperfections
+and usually quite different from what was originally envisioned.  
+But interesting, and finished fairly quickly.  I think we get away with this in movies and software
+because they're both malleable mediums.  Boldness pays.
+
+And if at the last minute two parts don't quite   
+fit, you can figure out some hack that will at least conceal
+the problem.Not so with cars, or cities.  They are all too physical.
+If the car business worked like software or movies, you'd
+surpass your competitors by making a car that weighed only
+fifty pounds, or folded up to the size of a motorcycle when   
+you wanted to park it.  But with physical products there are
+more constraints.  You don't win by dramatic innovations
+so much as by good taste and attention to detail.The trouble is, the very word "taste"
+sounds slightly ridiculous to American ears.
+It seems pretentious, or frivolous, or even effeminate.
+Blue staters think it's "subjective," and red staters 
+think it's for sissies.  So anyone in America
+who really cares about design will be sailing upwind.Twenty years ago we used to hear that the problem with
+the US car industry was the workers.
+We don't hear that any more now that Japanese companies
+are building cars in the US.   The problem with
+American cars is bad design.  You can see that just by
+looking at them.All that extra sheet metal on the AMC Matador wasn't
+added by the workers.  The problem
+with this car, as with American cars today, is that it was
+designed by marketing people instead of designers.Why do the Japanese make better cars than us?  Some say it's
+because their culture encourages cooperation.  That may come
+into it.   But in this case it seems more to the point that
+their culture prizes design and craftsmanship.For centuries the Japanese have made finer things than we
+have in the West.  When you look at swords they
+made in 1200, you just can't believe the date on the label
+is right.
+Presumably their cars fit together more   
+precisely than ours for the same reason their joinery always has.
+They're obsessed with making things well.Not us.
+When we make something in America, our aim is just to get the   
+job done.  Once we reach that point, we take one of two routes.
+We can stop there, and have something crude but
+serviceable, like a Vise-grip.  Or we can improve it,
+which usually means encrusting it with gratuitous ornament.
+When we want to make a car "better,"
+we stick tail fins on it, or make it 
+longer, or make the  
+windows smaller, depending on the current fashion.Ditto for houses.  In America you can have either a flimsy box banged
+together out of two by fours and drywall, or a McMansion-- a
+flimsy box banged together out of two by fours and drywall,
+but larger, more dramatic-looking, and full of expensive fittings.
+Rich people don't get better design or craftsmanship;
+they just get a larger, more conspicuous version of the
+standard house.We don't especially prize design or craftsmanship here.  What
+we like is speed, and we're willing to do something in an ugly
+way to get it done fast.  In some
+fields, like software or movies, this is a net win.  
+But it's not just that software and movies are malleable mediums.
+In those businesses, the designers (though they're
+not generally called that) have more power.   
+Software companies, at least successful ones, tend to be run
+by programmers.  And in the film industry, though producers
+may second-guess directors, the director controls most of
+what appears on the screen.
+And so American software and movies, and Japanese cars, all
+have this in common: the people in charge care about
+design-- the former because the designers are in charge, and the latter
+because the whole culture cares about design.I think most Japanese executives would be horrified at
+the idea of making a bad car.  Whereas American executives,
+in their hearts, still believe the most important thing about
+a car is the image it projects.
+Make a good car?  What's "good?"  It's so subjective.
+If you want to know how to design a car, ask a focus group.Instead of relying on their own internal design compass
+(like Henry Ford did),
+American car companies try to make what marketing people
+think consumers want.  But it isn't working.  American cars continue
+to lose market share.  And the reason is that the customer
+doesn't want what he thinks he wants.Letting focus groups design your cars for you  
+only wins in the short term.  In the long term, it pays
+to bet on good design.  The focus group may say they want the
+meretricious feature du jour, but what they want even more is
+to imitate sophisticated buyers, and they, though a
+small minority, really do care about good design.
+Eventually the
+pimps and drug dealers notice that the doctors and lawyers
+have switched from Cadillac to Lexus, and do the same.Apple is an interesting counterexample to the general
+American trend.  If you want to buy a nice CD player, you'll
+probably buy a Japanese one.  But if you want to buy an
+MP3 player, you'll probably buy an iPod.  What happened?
+Why doesn't Sony dominate MP3 players?  Because Apple is
+in the consumer electronics business now, and unlike
+other American companies, they're obsessed with good design.  
+Or more precisely, their CEO is.I just got an iPod, and it's not just nice.  It's     
+surprisingly nice.  For it to surprise me, it must be
+satisfying expectations I didn't know I had.  No focus
+group is going to discover those.  Only a great   
+designer can.Cars aren't the worst thing we make in America.
+Where the just-do-it model fails most dramatically is in our cities-- or
+rather, exurbs.
+If real estate developers operated on a large enough scale, if
+they built whole towns, market forces would compel
+them to build towns that didn't suck.  But they only build a
+couple office buildings or suburban streets at a time, and the
+result is so depressing that the inhabitants consider it a great
+treat to fly to Europe and spend a couple weeks living what
+is, for people there, just everyday life. [1]But the just-do-it model does have advantages.  It seems the clear
+winner for generating wealth and technical innovations
+(which are practically the same thing).  I think speed is the reason.
+It's hard to create wealth by making a commodity.  The
+real value is in things that are new, and if you want to
+be the first to make something, it helps to work fast.
+For better or worse, the just-do-it model is fast,
+whether you're Dan Bricklin writing the prototype of VisiCalc in
+a weekend, or a real estate developer
+building a block of shoddy condos in a month.If I had to choose between the just-do-it model and the
+careful model, I'd probably choose just-do-it.
+But do we have to choose?  Could we have it both ways?
+Could Americans have nice
+places to live without undermining the impatient, individualistic spirit
+that makes us good at software?  Could other countries
+introduce more individualism into their technology companies
+and research labs without having it metastasize as strip malls?
+I'm optimistic.  It's harder to
+say about other countries, but in the US, at least, I think 
+we can have both.Apple is an encouraging example.  They've managed to preserve
+enough of the impatient, hackerly spirit you need to write
+software.  And yet when
+you pick up a new Apple laptop, well, it doesn't
+seem American.  It's too perfect.  It seems as if it
+must have been made by a Swedish or a Japanese company.In many technologies, version 2 has higher resolution.  Why
+not in design generally?  I think we'll gradually see
+national characters superseded
+by occupational characters: hackers in Japan will be allowed
+to behave with a willfulness 
+that would now seem unJapanese,
+and products in America will be designed with an
+insistence on taste that would now seem unAmerican.
+Perhaps the most successful countries, in the future, will be
+those most willing to ignore what are now considered
+national characters, and do each kind of work in the way
+that works best.  Race you.Notes[1] Japanese cities are ugly too, but for different reasons.
+Japan is prone to earthquakes, so buildings are traditionally
+seen as temporary; there is no grand tradition of  city planning
+like the one Europeans inherited from Rome.  The other cause is
+the notoriously corrupt relationship between the government
+and construction companies.Thanks to Trevor Blackwell, Barry Eisler, Sarah Harlin,
+Shiro Kawai, Jessica Livingston, Jackie McDonough, Robert Morris, 
+and Eric Raymond
+for reading drafts of this.

@@ -1,0 +1,15 @@
+April 2009Om Malik is the most recent of many people
+to ask why Twitter is such a big deal.The reason is that it's a new messaging 
+protocol, where you don't specify the recipients.
+New protocols are rare.  Or more precisely, new
+protocols that take off are.
+There are only a handful of commonly used ones: TCP/IP 
+(the Internet), SMTP (email), HTTP (the web), and so on.  So any
+new protocol is a big deal.  But Twitter is a protocol owned
+by a private company.  That's even rarer.Curiously, the fact that the founders of Twitter 
+have been slow to monetize it may in the long run
+prove to be an advantage.  Because they haven't tried
+to control it too much, Twitter feels to everyone like
+previous protocols.  One forgets it's owned by a
+private company.  That must have made it easier for
+Twitter to spread.

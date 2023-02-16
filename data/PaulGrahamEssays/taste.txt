@@ -1,0 +1,451 @@
+February 2002
+
+
+
+"...Copernicus'
+aesthetic objections to [equants] provided one essential
+motive for his rejection of the Ptolemaic system...."- Thomas Kuhn, The Copernican Revolution"All of us had been trained by Kelly Johnson and believed
+fanatically in his insistence that an airplane that looked
+beautiful would fly the same way."- Ben Rich, Skunk Works"Beauty is the first test: there is no permanent place in this
+world for ugly mathematics."- G. H. Hardy, A Mathematician's Apology
+
+
+I was talking recently to a friend who teaches
+at MIT.  His field is hot now and
+every year he is inundated by applications from
+would-be graduate students.  "A lot of them seem smart,"
+he said.  "What I can't tell is whether they have any kind
+of taste."Taste.  You don't hear that word much now.
+And yet we still need the underlying
+concept, whatever we call it.  What my friend meant was
+that he wanted students who were not just good technicians,
+but who could use their technical knowledge to
+design beautiful things.Mathematicians call good work "beautiful,"
+and so, either now or in the past, have
+scientists, engineers, musicians, architects, designers,
+writers, and painters.
+Is it just a coincidence that they used the same word, or is   
+there some overlap in what they meant?  If there
+is an overlap, can we use one field's discoveries
+about beauty to help us in another?For those of us who design things, these are not just
+theoretical questions.  If there is such a thing as
+beauty, we need to be able to recognize it.  We need
+good taste to make good things.
+Instead of
+treating beauty as an airy abstraction, to be either blathered
+about or avoided depending on how one feels about airy
+abstractions, let's try considering it as a practical question:
+how do you make good stuff?If you mention taste nowadays, a lot of people will tell
+you that "taste is subjective."
+They believe this because it really feels that
+way to them.  When they like something, they have no idea
+why.  It could be because it's beautiful, or because their
+mother had one, or because they saw a movie star with one
+in a magazine, or because they know it's expensive.
+Their thoughts are a tangle of unexamined impulses.Most of us are encouraged, as children, to leave this tangle
+unexamined.  If you make fun of your little brother for
+coloring people green in his coloring book, your
+mother is likely to tell you something like "you like to
+do it your way and he likes to do it his way."Your mother at this point is not trying to teach you
+important truths about aesthetics.  She's trying to get
+the two of you to stop bickering.Like many of the half-truths adults tell us, this one
+contradicts other things they tell us.  After dinning
+into you that taste is merely a matter of personal preference,
+they take you to the museum and tell you that you should
+pay attention because Leonardo is a great artist.What goes through the kid's head at this point?  What does
+he think "great artist" means?  After having been
+told for years that everyone just likes to do
+things their own way, he is
+unlikely to head straight for the conclusion that a great
+artist is someone whose work is better than the others'.
+A far more likely theory, in his Ptolemaic model of
+the universe, is that a great artist is something that's
+good for you, like broccoli, because someone said so in a book.Saying that taste is just personal preference is a good way
+to prevent disputes.  The trouble is, it's not true.
+You feel this when you start to design things.Whatever job people do, they naturally want to do better.
+Football players
+like to win games.  CEOs like to increase earnings.  It's
+a matter of pride, and a real pleasure, to get better at
+your job. But if
+your job is to design things, and there is no such thing
+as beauty, then there is no way to get better at your job.
+If taste is just personal preference, then everyone's is   
+already perfect: you like whatever you like, and that's it.As in any job, as you continue to design things, you'll get
+better at it.  Your tastes will change.  And, like anyone
+who gets better at their job, you'll know you're getting
+better.  If so,
+your old tastes were
+not merely different, but worse.  Poof goes the axiom that
+taste can't be wrong.Relativism is fashionable at the moment, and that may hamper
+you from thinking about taste, even as yours grows.
+But if you come out of the closet and admit, at least to yourself,
+that there is such a thing as good and bad design, then you
+can start to study good design in detail.
+How has
+your taste changed?  When you made mistakes, what
+caused you to make them?  What have other people learned about
+design?Once you start to examine the question, it's surprising how
+much different fields' ideas of beauty have in common.  The same
+principles of good design crop up again and again.Good design is simple.  You hear this from math to
+painting.  In math it means that a shorter proof tends to be
+a better one.  Where axioms are concerned, especially,
+less is more.  It means much the same thing in programming.
+For architects and designers it means that beauty should
+depend on a few carefully chosen structural elements
+rather than a profusion of superficial ornament.  (Ornament
+is not in itself bad, only when it's camouflage on insipid
+form.)  Similarly, in painting, a
+still life of a few carefully observed and solidly
+modelled objects will tend to be more interesting than a
+stretch of flashy
+but mindlessly repetitive painting of, say, a lace collar.
+In writing it means: say what you mean
+and say it briefly.It seems strange to have to emphasize simplicity.
+You'd think simple would be the default.  Ornate
+is more work.  But something seems to come over people
+when they try to be creative.  Beginning writers adopt   
+a pompous tone that doesn't sound anything like the way 
+they speak.  Designers trying to be artistic resort to
+swooshes and curlicues.  Painters discover that they're expressionists.
+It's all evasion.
+Underneath
+the long words or the "expressive" brush strokes, there
+is not much going on, and that's frightening.When you're
+forced to be simple, you're forced to face the real problem.
+When you can't deliver ornament, you have to deliver
+substance.Good design is timeless.
+In math, every proof is timeless unless it contains a mistake.
+So what does Hardy mean when he says there is no permanent 
+place for ugly mathematics?  He means the same thing Kelly Johnson did:
+if something is ugly, it can't be the best solution.  There
+must be a better one, and eventually
+someone will discover it.Aiming at timelessness is a way to make
+yourself find the best answer:
+if you can imagine someone surpassing you, you should do it yourself.
+Some of the greatest masters did this so well that they
+left little room for those who came after.
+Every engraver since Durer has had to live in his shadow.Aiming at timelessness is also a way to evade
+the grip of fashion.  Fashions almost by definition
+change with time, so if you can make something that
+will still look good far into the future, then its
+appeal must derive more from merit and less from fashion.Strangely enough, if you want to make something that will 
+appeal to future generations, one way to do it is to
+try to appeal to past generations.  It's hard to guess what
+the future will be like, but we can be sure it will be
+like the past in caring nothing for present fashions.
+So if you can make something that appeals to people today
+and would also have appealed to people in 1500, there is a good
+chance it will appeal to people in 2500.Good design solves the right problem. The typical
+stove has four burners arranged in a square, and a dial
+to control each.  How do you arrange the dials?  The
+simplest answer is to put them in a row.  But this is a
+simple answer to the wrong question.
+The dials are for humans to use, and if you put them in a row,
+the unlucky human will have to stop and think each time
+about which dial matches which burner.  Better to arrange the dials
+in a square like the burners.A lot of bad design is industrious, but misguided.
+In the mid twentieth century there was a vogue for
+setting text in sans-serif fonts.
+These fonts are closer to the pure, underlying letterforms.
+But in text that's not the problem you're trying to solve. 
+For legibility it's more important that letters be easy
+to tell apart.
+It may look Victorian, but a Times Roman lowercase g is
+easy to tell from a lowercase y.Problems can be improved as well as solutions.
+In software, an intractable problem can usually be replaced
+by an equivalent one that's easy to solve.
+Physics progressed faster as the problem became
+predicting observable behavior, instead of reconciling it
+with scripture.Good design is suggestive.
+Jane Austen's novels contain almost no
+description; instead of telling you how
+everything looks, she tells her story so well that you   
+envision the scene for yourself.
+Likewise, a painting that suggests is usually more engaging
+than one that tells.  Everyone makes up their own story about the
+Mona Lisa.In architecture and design, this
+principle means that a building or object should let you 
+use it how you want: a good building, for example, will
+serve as a backdrop for whatever life people want to lead in it, instead
+of making them live as if they were executing a program
+written by the architect.In software, it means you should give users a few
+basic elements that they can combine as they wish, like Lego. 
+In math it means a proof that
+becomes the basis for a lot of new work is
+preferable to a proof that was difficult,
+but doesn't lead to future discoveries; in the
+sciences generally, citation is considered a rough
+indicator of merit.Good design is often slightly funny.  This one
+may not always be true.  But Durer's 
+engravings
+and Saarinen's 
+womb chair and the 
+Pantheon and the
+original Porsche 911 all seem
+to me slightly funny.  Godel's incompleteness theorem
+seems like a practical joke.I think it's because humor is related to strength.
+To have a sense of humor is to be strong:
+to keep one's sense of humor is to shrug off misfortunes,
+and to lose one's sense of humor is to be wounded by them.
+And so the mark-- or at least the prerogative-- of strength
+is not to take
+oneself too seriously.
+The confident will often, like
+swallows, seem to be making fun of the whole process slightly,
+as Hitchcock does in his films or Bruegel in his paintings-- or
+Shakespeare, for that matter.Good design may not have to be funny, but it's hard to
+imagine something that could be called humorless also being
+good design.Good design is hard.  If you look at the people who've
+done great work, one thing they all seem to have in common is that they
+worked very hard.  If you're not working hard,
+you're probably wasting your time.Hard problems call for great
+efforts.  In math, difficult proofs require ingenious solutions,
+and those tend to be interesting.  Ditto in engineering.When you
+have to climb a mountain you toss everything unnecessary
+out of your pack.  And so an architect who has to build
+on a difficult site, or a small budget, will find that he
+is forced to produce an elegant design.  Fashions and
+flourishes get knocked aside by the difficult business
+of solving the problem at all.Not every kind of hard is good.  There is good pain and bad pain.
+You want the kind of pain you get from going running, not the
+kind you get from stepping on a nail.
+A difficult
+problem could be good for a designer, but a fickle client or unreliable
+materials would not be.In art, the highest place has traditionally been given to
+paintings of people.  There is something to this tradition,
+and not just because pictures of faces get to press
+buttons in our brains that other pictures don't.  We are 
+so good at looking at faces that we force anyone who
+draws them to work hard to satisfy us.  If you
+draw a tree and you change the angle of a branch
+five degrees, no one will know.  When you change the angle
+of someone's eye five degrees, people notice.When Bauhaus designers adopted Sullivan's "form follows function,"
+what they meant was, form should follow function.  And
+if function is hard enough, form is forced to follow it,
+because there is no effort to spare for error.  Wild animals
+are beautiful because they have hard lives.Good design looks easy.  Like great athletes,
+great designers make it look easy.  Mostly this is
+an illusion.  The easy, conversational tone of good
+writing comes only on the eighth rewrite.In science and engineering, some of the greatest
+discoveries seem so simple that you say to yourself,
+I could have thought of that.  The discoverer is
+entitled to reply, why didn't you?Some Leonardo heads are just a few lines.  You look
+at them and you think, all you have to do is get eight
+or ten lines in the right place and you've made this beautiful
+portrait.  Well, yes, but you have to get them in
+exactly the right place.  The slightest error
+will make the whole thing collapse.Line drawings are in fact the most difficult visual
+medium, because they demand near perfection.
+In math terms, they are a closed-form solution; lesser  
+artists literally solve the same problems by successive
+approximation.  One of the reasons kids give up drawing
+at ten or so is that they decide to start
+drawing like grownups, and one of the first things
+they try is a line drawing of a face.  Smack!In most fields the appearance of ease seems to come with
+practice.  Perhaps what practice does is train your
+unconscious mind to handle tasks that used to
+require conscious thought.  In some cases
+you literally train your body.  An expert pianist can
+play notes faster than the brain can send signals to
+his hand.  
+Likewise an artist, after a while, can
+make visual perception flow in through his eye and
+out through his hand as automatically as someone tapping his foot to
+a beat.When people talk about being in
+"the zone," I think what they mean is that the
+spinal cord has the situation under control.
+Your spinal cord is less hesitant, and
+it frees conscious thought for the hard problems.
+Good design uses symmetry.
+I think symmetry may just
+be one way to achieve simplicity, but it's important enough
+to be mentioned on its own.
+Nature uses it a lot, which is a good sign.There are two kinds of symmetry, repetition and recursion.
+Recursion means repetition in subelements, like the
+pattern of veins in a leaf.Symmetry is unfashionable in some fields now, in reaction to
+excesses in the past.  Architects started consciously
+making buildings asymmetric in Victorian times and by the
+1920s asymmetry was an explicit premise of modernist architecture.
+Even these buildings only tended to be asymmetric
+about major axes, though; there were hundreds of minor symmetries.In writing you find symmetry at every level, from the phrases
+in a sentence to the plot of a novel.  You find the same
+in music and art.
+Mosaics (and some Cezannes) get extra visual punch by making
+the whole picture out of the same atoms.  Compositional 
+symmetry yields some of the most memorable paintings,  
+especially when two halves react to one another, as in 
+the Creation of Adam or 
+American Gothic.In math and engineering, recursion, especially, is a big win.
+Inductive proofs are wonderfully short.  In software,
+a problem that can be solved by recursion is nearly always
+best solved that way. The Eiffel Tower looks striking partly
+because it is a recursive solution, a tower on a tower.The danger of symmetry, and repetition especially, is that
+it can be used as a substitute for thought.Good design resembles nature.  It's not so much that
+resembling nature is intrinsically good as that nature
+has had a long time to work on the
+problem.  It's a good sign when your answer resembles nature's.It's not cheating to copy.
+Few would deny that a story should be like life.
+Working from life is a valuable tool in painting too, though its
+role has often been misunderstood.
+The aim is not simply to make a record.
+The point of painting from life is
+that it gives your mind something to chew on:  when your
+eyes are looking at something, your hand will do more
+interesting work.Imitating nature also works in engineering.  Boats have
+long had spines and ribs like an animal's ribcage.
+In some cases we may have to wait for better technology:
+early aircraft designers were mistaken to
+design aircraft that looked like birds, because they didn't
+have materials or power sources light enough (the Wrights' engine
+weighed 152 lbs. and
+generated only 12 hp.) or control systems sophisticated
+enough for machines that flew like birds, but I could
+imagine little unmanned reconnaissance planes flying
+like birds in fifty years.Now that we have enough computer power, we can imitate nature's   
+method as well as its results.  Genetic algorithms may let us
+create things too complex to design in the ordinary
+sense.Good design is redesign.  It's rare to get things right
+the first time.  Experts expect to throw away some early work.
+They plan for plans to change.It takes confidence to throw work away.  You have to be able 
+to think, there's more where that came from.   
+When people first start drawing, for example,
+they're often reluctant to redo parts that aren't
+right; they feel they've been lucky to get that far,   
+and if they try to redo something, it will turn out worse.  Instead
+they convince themselves that the drawing is not that bad,
+really-- in fact, maybe they meant it to look that way.Dangerous territory, that; if anything you should
+cultivate dissatisfaction.
+In Leonardo's drawings there are often five
+or six attempts to get a line right.
+The distinctive back of the Porsche
+911 only appeared in the redesign of an awkward 
+prototype.
+In Wright's early plans for the 
+Guggenheim,
+the right half was a ziggurat; he inverted it to get the
+present shape.Mistakes are natural.  Instead of treating them
+as disasters, make them easy to acknowledge and easy to fix.
+Leonardo more or less invented the sketch, as a
+way to make drawing bear a greater weight of exploration.
+Open-source software has fewer bugs because it admits the
+possibility of bugs.It helps to have a medium that makes change easy.
+When oil paint replaced tempera in the fifteenth century,
+it helped
+painters to deal with difficult subjects like the human 
+figure because, unlike tempera, oil can be blended and overpainted.
+Good design can copy.  Attitudes to copying
+often make a round trip.  A novice
+imitates without knowing it; next he tries
+consciously to be original; finally, he decides it's
+more important to be right than original.Unknowing imitation is almost a recipe for bad design.
+If you don't know where your ideas are coming from,
+you're probably imitating an imitator.
+Raphael so pervaded mid-nineteenth century taste that almost 
+anyone who tried to draw was imitating him, often at several
+removes.
+It was this, more than Raphael's own work, that bothered
+the Pre-Raphaelites.The ambitious are not content to imitate. The
+second phase in the growth of taste is a conscious
+attempt at originality.I think the
+greatest masters go on to achieve a kind of selflessness.
+They just want to get the right answer, and if part of the
+right answer has already been discovered by someone else,
+that's no reason not to use it.
+They're confident enough to take from anyone without
+feeling that their own vision will be lost in the process.
+Good design is often strange.  Some of the very best work
+has an uncanny quality: Euler's 
+Formula, 
+Bruegel's
+Hunters in the Snow, the 
+SR-71, Lisp.  They're not just
+beautiful, but strangely beautiful.I'm not sure why.  It may just be my own stupidity.  A
+can-opener must seem miraculous to a dog.  Maybe if I were smart
+enough it would seem the most natural thing in the world that
+ei*pi = -1.  It is after all necessarily true.Most of the qualities I've mentioned are things that can be
+cultivated, but I don't think it works to cultivate strangeness.
+The best you can do is not squash it if it starts to appear.
+Einstein didn't try to make relativity strange.
+He tried to make it true, and the truth turned out to be strange.At an art school where I once studied, the students wanted
+most of all to develop a personal style.
+But if you just try to make good things, you'll  
+inevitably do it in a distinctive way, just as each person
+walks in a distinctive way.  Michelangelo was not trying
+to paint like Michelangelo.  He was just trying to paint
+well; he couldn't help painting like Michelangelo.The only style worth having is the one you can't help.
+And this is especially true for strangeness.  There is no
+shortcut to it.  The Northwest Passage that the Mannerists,
+the Romantics, and two generations of American high school
+students have searched for does not seem to exist.  The
+only way to get there is to go through good and come out
+the other side.
+Good design happens in chunks.  The inhabitants
+of fifteenth century Florence included Brunelleschi, Ghiberti,
+Donatello, Masaccio, Filippo Lippi, 
+Fra Angelico, Verrocchio, Botticelli, Leonardo, and Michelangelo.
+Milan at the time was as big as Florence.
+How many fifteenth century Milanese artists can you name?Something was happening in Florence in the fifteenth century.
+And it can't have been heredity, because it isn't happening now.
+You have to assume that whatever
+inborn ability Leonardo and Michelangelo had, there were
+people born in Milan with just as much.  What happened to
+the Milanese Leonardo?There are roughly a thousand times
+as many people alive in the US right now as lived in
+Florence during the fifteenth century.  A thousand Leonardos
+and a thousand Michelangelos walk among us.
+If DNA ruled, we should be greeted daily by artistic
+marvels.  We aren't, and the reason is that to make Leonardo
+you need more than his innate ability.  You also need Florence 
+in 1450.Nothing is more powerful
+than a community of talented people working on related
+problems.  Genes count for little by comparison: being a genetic
+Leonardo was not enough to compensate for having been born   
+near Milan instead of Florence.
+Today we move around more, but great work still comes
+disproportionately from a few hotspots:
+the Bauhaus, the Manhattan Project, the New Yorker,
+Lockheed's Skunk Works, Xerox Parc.At any given time there are a
+few hot topics and a few groups doing great work on them,
+and it's nearly impossible to do
+good work yourself if you're too far removed from one
+of these centers.  You can push or pull these trends
+to some extent, but you can't break away from them.
+(Maybe you can, but the Milanese Leonardo couldn't.)
+Good design is often daring.  At every period   
+of history, people have believed things that were just   
+ridiculous, and believed them so strongly that you risked  
+ostracism or even violence by saying otherwise.If our own time were any different, that would be remarkable.
+As far as I can tell it isn't.This problem afflicts not just every
+era, but in some degree every field.
+Much Renaissance art was in its time considered shockingly secular:
+according to Vasari, Botticelli repented and gave up painting, and
+Fra Bartolommeo and Lorenzo di Credi actually burned some of their
+work.
+Einstein's theory of relativity offended many contemporary physicists,
+and was not fully accepted for decades-- in France, not until the
+1950s.Today's experimental error is tomorrow's new theory.  If
+you want to discover great new things, then instead of turning
+a blind eye to the places where conventional wisdom and
+truth don't quite meet, you should pay particular attention 
+to them.As a practical matter, I think it's easier to see ugliness
+than to imagine beauty.  Most of the people who've made beautiful
+things seem to have done it by fixing something that they    
+thought ugly.  Great work usually seems to happen because someone sees
+something and thinks, I could do better than that.  Giotto
+saw traditional Byzantine madonnas painted according to a
+formula that had satisfied everyone for centuries, and to him
+they looked wooden and unnatural.
+Copernicus was so troubled by a hack that all his contemporaries
+could tolerate that he felt there must be a better solution.Intolerance for ugliness is not in itself enough.  You have to
+understand a field well before you develop a good nose for
+what needs fixing.  You have to do your homework.  But as
+you become expert in a field, you'll start to hear little
+voices saying, What a hack!  There must be a better way.
+Don't ignore those voices.  Cultivate them.  The recipe for
+great work is: very exacting taste, plus the ability
+to gratify it.NotesSullivan
+ actually said "form ever follows function," but   
+I think the usual misquotation is closer to what modernist
+architects meant.
+Stephen G. Brush, "Why was Relativity Accepted?"
+Phys. Perspect. 1 (1999) 184-214.

@@ -1,0 +1,112 @@
+
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+July 2010I realized recently that what one thinks about in the shower in the
+morning is more important than I'd thought.  I knew it was a good
+time to have ideas.  Now I'd go further: now I'd say it's hard to
+do a really good job on anything you don't think about in the shower.Everyone who's worked on difficult problems is probably familiar
+with the phenomenon of working hard to figure something out, failing,
+and then suddenly seeing the answer a bit later while doing something
+else. There's a kind of thinking you do without trying to.  I'm
+increasingly convinced this type of thinking is not merely helpful
+in solving hard problems, but necessary.  The tricky part is, you
+can only control it indirectly.
+[1]I think most people have one top idea in their mind at any given
+time.  That's the idea their thoughts will drift toward when they're
+allowed to drift freely.  And this idea will thus tend to get all
+the benefit of that type of thinking, while others are starved of
+it.  Which means it's a disaster to let the wrong idea become the
+top one in your mind.What made this clear to me was having an idea I didn't want as the
+top one in my mind for two long stretches.I'd noticed startups got way less done when they started raising
+money, but it was not till we ourselves raised money that I understood
+why.  The problem is not the actual time it takes to meet with
+investors.  The problem is that once you start raising money, raising
+money becomes the top idea in your mind.  That becomes what you
+think about when you take a shower in the morning.  And that means
+other questions aren't.I'd hated raising money when I was running Viaweb, but I'd forgotten
+why I hated it so much.  When we raised money for Y Combinator, I
+remembered.  Money matters are particularly likely to become the
+top idea in your mind.  The reason is that they have to be.  It's
+hard to get money.  It's not the sort of thing that happens by
+default.  It's not going to happen unless you let it become the
+thing you think about in the shower.  And then you'll make little
+progress on anything else you'd rather be working on.
+[2](I hear similar complaints from friends who are professors.  Professors
+nowadays seem to have become professional fundraisers who do a
+little research on the side.  It may be time to fix that.)The reason this struck me so forcibly is that for most of the
+preceding 10 years I'd been able to think about what I wanted.  So
+the contrast when I couldn't was sharp.  But I don't think this
+problem is unique to me, because just about every startup I've seen
+grinds to a halt when they start raising money  or talking
+to acquirers.You can't directly control where your thoughts drift.  If you're
+controlling them, they're not drifting.  But you can control them
+indirectly, by controlling what situations you let yourself get
+into.  That has been the lesson for me: be careful what you let
+become critical to you.  Try to get yourself into situations where
+the most urgent problems are ones you want to think about.You don't have complete control, of course.  An emergency could
+push other thoughts out of your head.  But barring emergencies you
+have a good deal of indirect control over what becomes the top idea
+in your mind.I've found there are two types of thoughts especially worth
+avoiding  thoughts like the Nile Perch in the way they push
+out more interesting ideas.  One I've already mentioned: thoughts
+about money. Getting money is almost by definition an attention
+sink.
+The other is disputes.  These too are engaging in the
+wrong way: they have the same velcro-like shape as genuinely
+interesting ideas, but without the substance.  So avoid disputes
+if you want to get real work done.
+[3]Even Newton fell into this trap.  After publishing his theory of
+colors in 1672 he found himself distracted by disputes for years,
+finally concluding that the only solution was to stop publishing:
+
+  I see I have made myself a slave to Philosophy, but if I get free
+  of Mr Linus's business I will resolutely bid adew to it eternally,
+  excepting what I do for my privat satisfaction or leave to come
+  out after me.  For I see a man must either resolve to put out
+  nothing new or become a slave to defend it.
+[4]
+
+Linus and his students at Liege were among the more tenacious
+critics.  Newton's biographer Westfall seems to feel he was
+overreacting:
+
+  Recall that at the time he wrote, Newton's "slavery" consisted
+  of five replies to Liege, totalling fourteen printed pages, over
+  the course of a year.
+
+I'm more sympathetic to Newton. The problem was not the 14 pages,
+but the pain of having this stupid controversy constantly reintroduced
+as the top idea in a mind that wanted so eagerly to think about
+other things.Turning the other cheek turns out to have selfish advantages.
+Someone who does you an injury hurts you twice: first by the injury
+itself, and second by taking up your time afterward thinking about
+it.  If you learn to ignore injuries you can at least avoid the
+second half.  I've found I can to some extent avoid thinking about
+nasty things people have done to me by telling myself: this doesn't
+deserve space in my head.  I'm always delighted to find I've forgotten
+the details of disputes, because that means I hadn't been thinking
+about them.  My wife thinks I'm more forgiving than she is, but my
+motives are purely selfish.I suspect a lot of people aren't sure what's the top idea in their
+mind at any given time.  I'm often mistaken about it.  I tend to
+think it's the idea I'd want to be the top one, rather than the one
+that is.  But it's easy to figure this out: just take a shower.
+What topic do your thoughts keep returning to?  If it's not what
+you want to be thinking about, you may want to change something.Notes[1]
+No doubt there are already names for this type of thinking, but
+I call it "ambient thought."[2]
+This was made particularly clear in our case, because neither
+of the funds we raised was difficult, and yet in both cases the
+process dragged on for months.  Moving large amounts of money around
+is never something people treat casually.  The attention required
+increases with the amount—maybe not linearly, but definitely
+monotonically.[3]
+Corollary: Avoid becoming an administrator, or your job will
+consist of dealing with money and disputes.[4]
+Letter to Oldenburg, quoted in Westfall, Richard, Life of
+Isaac Newton, p. 107.Thanks to Sam Altman, Patrick Collison, Jessica Livingston,
+and Robert Morris for reading drafts of this.
