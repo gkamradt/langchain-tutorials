@@ -36,3 +36,18 @@ DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
 DEBUG:Chroma:time to run knn query: 0.00036215782165527344
 DEBUG:Chroma:time to pre process our knn query: 3.0994415283203125e-06
 DEBUG:Chroma:time to run knn query: 0.007834672927856445
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:time to pre process our knn query: 5.0067901611328125e-06
+DEBUG:Chroma:time to run knn query: 0.0006079673767089844
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:time to pre process our knn query: 7.867813110351562e-06
+DEBUG:Chroma:time to run knn query: 0.0008041858673095703
+DEBUG:Chroma:time to pre process our knn query: 5.0067901611328125e-06
+DEBUG:Chroma:time to run knn query: 0.0008640289306640625
+DEBUG:Chroma:time to pre process our knn query: 4.0531158447265625e-06
+DEBUG:Chroma:time to run knn query: 0.0007679462432861328
