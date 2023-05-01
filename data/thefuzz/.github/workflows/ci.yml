@@ -1,0 +1,32 @@
+name: The Fuzz
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.7", "3.8", "3.9", "3.10", "3.11"]
+        test-cmd: [pytest]
+        include:
+          #- python-version: pyp-y3.8
+          #  test-cmd: pytest test_thefuzz.py test_thefuzz_pytest.py
+          - python-version: "3.7"
+            test-cmd: python setup.py check --restructuredtext --strict --metadata
+          - python-version: "3.10"
+            test-cmd: python setup.py check --restructuredtext --strict --metadata
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install pytest pycodestyle docutils Pygments hypothesis python-Levenshtein
+      - name: Test with pytest
+        run: |
+          ${{ matrix.test-cmd }}

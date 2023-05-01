@@ -1,0 +1,25 @@
+language: python
+matrix:
+  include:
+  - python: "3.7"
+    env: TEST_SUITE=pytest
+  - python: "3.8"
+    env: TEST_SUITE=pytest
+  - python: "3.9"
+    env: TEST_SUITE=pytest
+  - python: "3.10"
+    env: TEST_SUITE=pytest
+  - python: "3.11-dev"
+    env: TEST_SUITE=pytest
+  - python: "pypy3.7-7.3.5"
+    env: TEST_SUITE="pytest test_thefuzz.py test_thefuzz_pytest.py"
+  - python: "3.10"
+    env: TEST_SUITE="python setup.py check --restructuredtext --strict --metadata"
+install:
+  - pip install -U pip setuptools wheel
+  - pip install pytest pycodestyle docutils Pygments hypothesis
+script:
+  - $TEST_SUITE
+notifications:
+  on_success: always
+cache: pip
