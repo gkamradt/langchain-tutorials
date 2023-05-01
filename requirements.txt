@@ -3,3 +3,4 @@ unstructured
 pandas
 chromadb
 tiktoken
+openai
