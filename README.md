@@ -81,7 +81,7 @@ Recommended Learning Path:
 | Project      | Contact | Difficulty | Open Sourced? |  Notes | 
 | ----------- | ----------- | ---------- | :-: | ---------- |
 | [Agents Via Vocode](https://twitter.com/vocodehq/status/1653104377010483201)      | [@vocode](https://twitter.com/vocodehq)       | 🐒 Intermediate | ✅ [Code](https://github.com/vocodedev/vocode-python) | Agents making phone calls to order pizza |
-| [NextusGPT](https://twitter.com/achammah1/status/1649482899253501958?s=20)      | [@achammah1](https://twitter.com/achammah1)       | 🐇 Beginner | ✅ [Code](www.google.com) | AI Freelancer Platform | 
+| [NextusGPT](https://twitter.com/achammah1/status/1649482899253501958?s=20)      | [@achammah1](https://twitter.com/achammah1)       | 🐇 Beginner | ✅ [Code](www.google.com) | AI Freelancer Platform. [Discord](https://discord.gg/Tttk8z9U5x) | 
 
 ### **👽 Other 👽**
 | Project      | Contact | Difficulty |
