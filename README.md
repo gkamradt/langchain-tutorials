@@ -12,6 +12,10 @@ Recommended Learning Path:
 2. LangChain CookBook Part 2: 9 Use Cases - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb), [Video](https://youtu.be/vGP4pQdCocw)
 3. Explore the projects below and jump into the deep dives
 
+Prompt Engineering (my favorite resources):
+1. [Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) by [Elvis Saravia](https://twitter.com/omarsar0)
+2. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Prompt engineering basics straight from OpenAI
+
 ## 🤖 **Project Gallery**
 
 🐇 Beginner = Entry level projects to practice LangChain
