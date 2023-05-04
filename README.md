@@ -24,7 +24,7 @@ Prompt Engineering (my favorite resources):
 
 🦈 Advanced = Advanced or custom implementations of LangChain
 
-### **📝 Summarization**
+### **📝 Summarization** - *Deep Dive: [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb), [Video](https://youtu.be/qaPMdcCqtWk)*
 | Project    | Contact | Difficulty | Open Sourced? |  Notes | 
 | - | ----------- | ---------- | :-: | ---------- |
 | [SummarizePaper.com](https://www.summarizepaper.com/)      | Quentin Kral       | 🐒 Intermediate | ✅ [Code](https://github.com/summarizepaper/summarizepaper) | Summarize arXiv papers | 
