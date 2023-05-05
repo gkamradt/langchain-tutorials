@@ -41,7 +41,7 @@ Prompt Engineering (my favorite resources):
 ### **📦 Extraction**
 | Project      | Contact | Difficulty | Open Sourced? |  Notes | 
 | ----------- | ----------- | ---------- | :-: | ---------- |
-| [Kor](https://eyurtsev.github.io/kor/)      | [Eugene Yurtsev](https://twitter.com/veryboldbagel)       | 🐒 Intermediate | ✅ [Code](https://github.com/eyurtsev/kor) | Extract technologies & tools from job descriptions | 
+| [Kor](https://eyurtsev.github.io/kor/)      | [Eugene Yurtsev](https://twitter.com/veryboldbagel)       | 🐒 Intermediate | ✅ [Code](https://github.com/eyurtsev/kor) | This is a half-baked prototype that “helps” you extract structured data from text using large language models (LLMs) 🧩. | 
 | [OpeningAttributes](https://twitter.com/GregKamradt/status/1643027796850253824)      | [@gregkamradt](https://twitter.com/GregKamradt)       | 🐇 Beginner | ✅ [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb) | Extract technologies & tools from job descriptions | 
 
 <br>
@@ -85,12 +85,12 @@ Prompt Engineering (my favorite resources):
 | Project      | Contact | Difficulty | Open Sourced? |  Notes | 
 | ----------- | ----------- | ---------- | :-: | ---------- |
 | [Agents Via Vocode](https://twitter.com/vocodehq/status/1653104377010483201)      | [@vocode](https://twitter.com/vocodehq)       | 🐒 Intermediate | ✅ [Code](https://github.com/vocodedev/vocode-python) | Agents making phone calls to order pizza |
-| [NexusGPT](https://twitter.com/achammah1/status/1649482899253501958?s=20)      | [@achammah1](https://twitter.com/achammah1)       | 🐒 Intermediate | ✅ [Code](www.google.com) | AI Freelancer Platform. [Discord](https://discord.gg/Tttk8z9U5x) | 
+| [NexusGPT](https://twitter.com/achammah1/status/1649482899253501958?s=20)      | [@achammah1](https://twitter.com/achammah1)       | 🐒 Intermediate | | AI Freelancer Platform. [Discord](https://discord.gg/Tttk8z9U5x) | 
 
 ### **👽 Other 👽**
-| Project      | Contact | Difficulty |
-| ----------- | ----------- | ---------- |
-| TBD | | | | | 
+| Project      | Contact | Difficulty | Open Sourced? |  Notes | 
+| ----------- | ----------- | ---------- | :-: | ---------- |
+| [Slack-GPT](https://github.com/martinseanhunt/slack-gpt)      | [@martinseanhunt](https://twitter.com/martinseanhunt)       | 🐒 Intermediate | ✅ [Code](https://github.com/martinseanhunt/slack-gpt) | A simple starter for a Slack app / chatbot that uses the Bolt.js Slack app framework, Langchain, openAI and a Pinecone vectorstore to provide LLM generated answers to user questions based on a custom data set. | 
 
 ## 💁 Contributing
 
