@@ -4,7 +4,7 @@ Overview, Tutorial, and Examples of [LangChain](https://langchain.readthedocs.io
 
 See the accompanying tutorials on [YouTube](https://www.youtube.com/channel/UCyR2Ct3pDOeZSRyZH5hPO-Q)
 
-If you want to get updated when new tutorials are out, get them [delivered to your inbox](https://dataindependent.us2.list-manage.com/subscribe?u=254fc6192eb3b10df38f7a54a&id=ca649691cf)
+If you want to get updated when new tutorials are out, get them [delivered to your inbox](https://prodigious-knitter-7293.ck.page/3bd9b7cea6)
 
 ### **New To LangChain?**
 Recommended Learning Path:
