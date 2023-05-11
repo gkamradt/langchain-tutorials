@@ -102,4 +102,4 @@ This repo and series is provided by [DataIndependent](https://dataindependent.co
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gkamradt/langchain-tutorials&type=Date)](https://star-history.com/#gkamradt/langchain-tutorials&Date)
+[![Star History Diagram](https://api.star-history.com/svg?repos=gkamradt/langchain-tutorials&type=Date)](https://star-history.com/#gkamradt/langchain-tutorials&Date)
