@@ -99,3 +99,7 @@ As an open-source project in a rapidly developing field, we are extremely open t
 Submit a PR with notes.
 
 This repo and series is provided by [DataIndependent](https://dataindependent.com/) and run by [Greg Kamradt](https://twitter.com/GregKamradt)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gkamradt/langchain-tutorials&type=Date)](https://star-history.com/#gkamradt/langchain-tutorials&Date)
