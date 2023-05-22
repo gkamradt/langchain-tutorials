@@ -15,6 +15,7 @@ Recommended Learning Path:
 Prompt Engineering (my favorite resources):
 1. [Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) by [Elvis Saravia](https://twitter.com/omarsar0)
 2. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Prompt engineering basics straight from OpenAI
+3. [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 
 ## 🤖 **Project Gallery**
 
