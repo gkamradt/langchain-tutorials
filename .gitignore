@@ -128,6 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# PyCharm or anyother jetbrain IDE
+.idea
+
 # Spyder project settings
 .spyderproject
 .spyproject
