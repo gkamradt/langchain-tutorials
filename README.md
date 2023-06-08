@@ -6,6 +6,8 @@ See the accompanying tutorials on [YouTube](https://www.youtube.com/channel/UCyR
 
 If you want to get updated when new tutorials are out, get them [delivered to your inbox](https://prodigious-knitter-7293.ck.page/3bd9b7cea6)
 
+If you're new to Jupyter Notebooks or Colab, check out [this video](https://www.youtube.com/watch?v=HW29067qVWk)
+
 ### **New To LangChain?**
 Recommended Learning Path:
 1. LangChain CookBook Part 1: 7 Core Concepts - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb), [Video](https://youtu.be/2xxziIWmaSA)
