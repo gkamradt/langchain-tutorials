@@ -1,0 +1,155 @@
+{
+    "name": "customer-complaints",
+    "fields": [
+        {
+            "name": "pcm",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": false,
+            "key": true,
+            "retrievable": true
+        },
+        {
+            "name": "issue_date_ts",
+            "type": "Edm.Int64",
+            "searchable": false,
+            "filterable": true,
+            "sortable": true,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "unit_name",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "issue_title",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "sortable": false,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "issue_statement",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "sortable": false,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "comments",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "sortable": false,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "product_type",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": true,
+            "retrievable": true
+        },
+        {
+            "name": "station_type",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": true,
+            "sortable": false,
+            "facetable": true,
+            "retrievable": true
+        },
+        {
+            "name": "closure_comments",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "sortable": false,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "closure_date",
+            "type": "Edm.Int64",
+            "searchable": false,
+            "filterable": true,
+            "sortable": true,
+            "facetable": false,
+            "retrievable": true
+        },
+        {
+            "name": "pcm_status",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": true,
+            "retrievable": true
+        },
+        {
+            "name": "generator_serial",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": true,
+            "retrievable": true
+        },
+        {
+            "name": "turbine_serial_number",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": true,
+            "sortable": false,
+            "facetable": true,
+            "retrievable": true
+        },
+        {
+            "name": "issue_statement_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "retrievable": false,
+            "dimensions": 1536,
+            "vectorSearchConfiguration": "vectorConfig"
+        },
+        {
+            "name": "comments_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "retrievable": false,
+            "dimensions": 1536,
+            "vectorSearchConfiguration": "vectorConfig"
+        },
+        {
+            "name": "closure_comments_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "retrievable": false,
+            "dimensions": 1536,
+            "vectorSearchConfiguration": "vectorConfig"
+        }
+    ],
+    "vectorSearch": {
+        "algorithmConfigurations": [
+            {
+                "name": "vectorConfig",
+                "kind": "hnsw"
+            }
+        ]
+    }
+}
