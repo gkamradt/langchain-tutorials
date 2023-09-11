@@ -31,7 +31,7 @@ Prompt Engineering (my favorite resources):
 | Project    | Contact | Difficulty | Open Sourced? |  Notes | 
 | - | ----------- | ---------- | :-: | ---------- |
 | [SummarizePaper.com](https://www.summarizepaper.com/)      | Quentin Kral       | 🐒 Intermediate | ✅ [Code](https://github.com/summarizepaper/summarizepaper) | Summarize arXiv papers | 
-| [SlackSummarizerPlugin]      | Matias Sandacz      | 🐒 Intermediate | ✅ [Code]([https://github.com/summarizepaper/summarizepaper](https://github.com/matisandacz/SlackSummarization)) | Summarize Slack Conversations | 
+| SlackSummarizerPlugin      | Matias Sandacz      | 🐒 Intermediate | ✅ [Code](https://github.com/matisandacz/SlackSummarization) | Summarize Slack Conversations | 
 
 <br>
 
